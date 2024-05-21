@@ -1,0 +1,10 @@
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\bin\Debug\EuromilhoesForm.exe.config
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\bin\Debug\EuromilhoesForm.exe
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\bin\Debug\EuromilhoesForm.pdb
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\obj\Debug\EuromilhoesForm.csproj.AssemblyReference.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\obj\Debug\EuromilhoesForm.Form1.resources
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\obj\Debug\EuromilhoesForm.Properties.Resources.resources
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\obj\Debug\EuromilhoesForm.csproj.GenerateResource.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\obj\Debug\EuromilhoesForm.csproj.CoreCompileInputs.cache
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\obj\Debug\EuromilhoesForm.exe
+C:\Users\ROG\OneDrive\Documentos\CINEL-CET\5412-C#\Teste\EuromilhoesForm\obj\Debug\EuromilhoesForm.pdb
